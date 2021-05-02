@@ -9,7 +9,7 @@ A sigla **CRUD** significa, _Create, Read, Update and Delete_, então é possív
 
 # Habilidades
 
-Nesse projeto, você será capaz de:
+Nesse projeto, fui capaz de:
 
 - Utilizar o componentDidMount para executar uma ação após o componente ser inserido no DOM;
 - Utilizar o shouldComponentUpdate para avaliar se uma atualização do componente deve ou não acontecer naquele momento;
