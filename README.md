@@ -1,7 +1,3 @@
-### Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe
-
 # Boas vindas ao repositório do projeto de Movie Cards CRUD!
 Crio um **CRUD** de cartões de filmes em React. 
 A sigla **CRUD** significa, _Create, Read, Update and Delete_, então é possível realizar as seguintes operações nesse projeto:
